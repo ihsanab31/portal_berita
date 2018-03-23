@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context="com.sundevs.ihsan.newsapps.view.activity.DetailNewsActivity">
+    <include layout="@layout/header_detail"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/img_news"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/ic_launcher_background"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="8dp"
+                android:background="@color/white"
+                android:orientation="vertical">
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/cv_news"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:padding="16dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/date_news"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/_24_januari_2018"
+                            android:textStyle="italic"
+                            android:textSize="14sp" />
+
+                        <TextView
+                            android:id="@+id/title_news"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/benefit_of_eating_watermelon_for_men"
+                            android:textSize="20sp"
+                            android:gravity="left"
+                            android:textStyle="bold"
+                            android:textAllCaps="true"
+                            android:textColor="#2d2d2d"
+                            tools:ignore="RtlHardcoded" />
+
+                        <TextView
+                            android:id="@+id/author_news"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="8dp"
+                            android:gravity="right"
+                            android:text="@string/default_name"
+                            android:textColor="#4e4e4e"
+                            android:textStyle="italic"
+                            android:textSize="14sp"
+                            tools:ignore="RtlHardcoded" />
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="0.5dp"
+                            android:layout_marginTop="8dp"
+                            android:layout_marginBottom="8dp"
+                            android:background="#696969"/>
+                        <TextView
+                            android:id="@+id/content_news"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/default_date"
+                            android:textColor="#2d2d2d"
+                            android:textSize="16sp" />
+                        <TextView
+                            android:id="@+id/source_news"
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:text="@string/view_more"
+                            android:textAllCaps="true"
+                            android:textColor="@color/colorPrimary"
+                            android:textStyle="bold"
+                            android:textSize="16sp" />
+
+                    </LinearLayout>
+                </android.support.v7.widget.CardView>
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

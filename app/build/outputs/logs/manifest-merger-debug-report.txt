@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\d233eae4608680d8b1afe9ad3e738797\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fc67bf31716d8ef70b70292b62f69c03\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\12c1ed8161b9dfef0813b5016505553e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a9d2f55451941cbccb9588e8cb1b0d19\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\df05092e5b8a41417e56b8a6076fcccd\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bd1eed0f44c4318a5156ea69a4da8e88\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\6dc36770636493749df3ce534f2fd459\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0aff115ee19271cb84b68b2cda4e61fb\AndroidManifest.xml:17:1-28:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\8a67cbcc0349c04513d7f7460eafcd19\AndroidManifest.xml:2:1-7:12
+MERGED from [com.wdullaer:materialdatetimepicker:3.4.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-3.4.0.aar\4ca911d6e097617ff282126d39b4e7ae\AndroidManifest.xml:17:1-30:12
+MERGED from [id.zelory:compressor:2.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\compressor-2.1.0.aar\70b133279b7c79b8223f9bc66a15c84c\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\permissionsdispatcher-3.0.1.aar\e5f3276f42b2b4de5ed165aee61df1e5\AndroidManifest.xml:2:1-10:12
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\89824e33160056e5440bdc9d16435a4f\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\406fcb3814c3829f9b35aea7351c7acc\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ef46225ad08bd9b1ad0007c7c0108dfc\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5465b18033ee3f66ba55163875c12106\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0b52f03c1c2720ac03cd4aa2cad84f42\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a66a2484e01efe216ad790b957ef892d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c2fc3aab4452c8132c097ef233edf8b0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\594298754e379da566ee706c2c3ab515\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1c0870bdbc7c973301a22a4116878f7a\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:11:22-78
+application
+ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:13:5-33:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fc67bf31716d8ef70b70292b62f69c03\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fc67bf31716d8ef70b70292b62f69c03\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\12c1ed8161b9dfef0813b5016505553e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\12c1ed8161b9dfef0813b5016505553e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a9d2f55451941cbccb9588e8cb1b0d19\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a9d2f55451941cbccb9588e8cb1b0d19\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\df05092e5b8a41417e56b8a6076fcccd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\df05092e5b8a41417e56b8a6076fcccd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bd1eed0f44c4318a5156ea69a4da8e88\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bd1eed0f44c4318a5156ea69a4da8e88\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\6dc36770636493749df3ce534f2fd459\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\6dc36770636493749df3ce534f2fd459\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0aff115ee19271cb84b68b2cda4e61fb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0aff115ee19271cb84b68b2cda4e61fb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.wdullaer:materialdatetimepicker:3.4.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-3.4.0.aar\4ca911d6e097617ff282126d39b4e7ae\AndroidManifest.xml:28:5-20
+MERGED from [com.wdullaer:materialdatetimepicker:3.4.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-3.4.0.aar\4ca911d6e097617ff282126d39b4e7ae\AndroidManifest.xml:28:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\89824e33160056e5440bdc9d16435a4f\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\89824e33160056e5440bdc9d16435a4f\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\406fcb3814c3829f9b35aea7351c7acc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\406fcb3814c3829f9b35aea7351c7acc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ef46225ad08bd9b1ad0007c7c0108dfc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ef46225ad08bd9b1ad0007c7c0108dfc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5465b18033ee3f66ba55163875c12106\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5465b18033ee3f66ba55163875c12106\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0b52f03c1c2720ac03cd4aa2cad84f42\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0b52f03c1c2720ac03cd4aa2cad84f42\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a66a2484e01efe216ad790b957ef892d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a66a2484e01efe216ad790b957ef892d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c2fc3aab4452c8132c097ef233edf8b0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c2fc3aab4452c8132c097ef233edf8b0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\594298754e379da566ee706c2c3ab515\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\594298754e379da566ee706c2c3ab515\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1c0870bdbc7c973301a22a4116878f7a\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1c0870bdbc7c973301a22a4116878f7a\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:14:9-32
+activity#com.sundevs.ihsan.newsapps.view.activity.SplashScreenActivity
+ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:theme
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:22:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.sundevs.ihsan.newsapps.view.activity.MainActivity
+ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:30:9-64
+	android:name
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:30:19-61
+activity#com.sundevs.ihsan.newsapps.view.activity.DetailNewsActivity
+ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:31:9-70
+	android:name
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:31:19-67
+activity#com.sundevs.ihsan.newsapps.view.activity.DetailFullActivity
+ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:32:9-79
+	android:name
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml:32:19-67
+uses-sdk
+INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\d233eae4608680d8b1afe9ad3e738797\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\d233eae4608680d8b1afe9ad3e738797\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fc67bf31716d8ef70b70292b62f69c03\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fc67bf31716d8ef70b70292b62f69c03\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\12c1ed8161b9dfef0813b5016505553e\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\12c1ed8161b9dfef0813b5016505553e\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a9d2f55451941cbccb9588e8cb1b0d19\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a9d2f55451941cbccb9588e8cb1b0d19\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\df05092e5b8a41417e56b8a6076fcccd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\df05092e5b8a41417e56b8a6076fcccd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bd1eed0f44c4318a5156ea69a4da8e88\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bd1eed0f44c4318a5156ea69a4da8e88\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\6dc36770636493749df3ce534f2fd459\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\6dc36770636493749df3ce534f2fd459\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0aff115ee19271cb84b68b2cda4e61fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0aff115ee19271cb84b68b2cda4e61fb\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\8a67cbcc0349c04513d7f7460eafcd19\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\8a67cbcc0349c04513d7f7460eafcd19\AndroidManifest.xml:5:5-43
+MERGED from [com.wdullaer:materialdatetimepicker:3.4.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-3.4.0.aar\4ca911d6e097617ff282126d39b4e7ae\AndroidManifest.xml:22:5-24:41
+MERGED from [com.wdullaer:materialdatetimepicker:3.4.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-3.4.0.aar\4ca911d6e097617ff282126d39b4e7ae\AndroidManifest.xml:22:5-24:41
+MERGED from [id.zelory:compressor:2.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\compressor-2.1.0.aar\70b133279b7c79b8223f9bc66a15c84c\AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\compressor-2.1.0.aar\70b133279b7c79b8223f9bc66a15c84c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\permissionsdispatcher-3.0.1.aar\e5f3276f42b2b4de5ed165aee61df1e5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.0.1] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\permissionsdispatcher-3.0.1.aar\e5f3276f42b2b4de5ed165aee61df1e5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\89824e33160056e5440bdc9d16435a4f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\89824e33160056e5440bdc9d16435a4f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\406fcb3814c3829f9b35aea7351c7acc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\406fcb3814c3829f9b35aea7351c7acc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ef46225ad08bd9b1ad0007c7c0108dfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ef46225ad08bd9b1ad0007c7c0108dfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5465b18033ee3f66ba55163875c12106\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5465b18033ee3f66ba55163875c12106\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0b52f03c1c2720ac03cd4aa2cad84f42\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0b52f03c1c2720ac03cd4aa2cad84f42\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a66a2484e01efe216ad790b957ef892d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a66a2484e01efe216ad790b957ef892d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c2fc3aab4452c8132c097ef233edf8b0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c2fc3aab4452c8132c097ef233edf8b0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\594298754e379da566ee706c2c3ab515\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\594298754e379da566ee706c2c3ab515\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1c0870bdbc7c973301a22a4116878f7a\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1c0870bdbc7c973301a22a4116878f7a\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fc67bf31716d8ef70b70292b62f69c03\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\NewsApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\NewsApp\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fc67bf31716d8ef70b70292b62f69c03\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\12c1ed8161b9dfef0813b5016505553e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\12c1ed8161b9dfef0813b5016505553e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\df05092e5b8a41417e56b8a6076fcccd\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\df05092e5b8a41417e56b8a6076fcccd\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bd1eed0f44c4318a5156ea69a4da8e88\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bd1eed0f44c4318a5156ea69a4da8e88\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\6dc36770636493749df3ce534f2fd459\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\6dc36770636493749df3ce534f2fd459\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0aff115ee19271cb84b68b2cda4e61fb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0aff115ee19271cb84b68b2cda4e61fb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\406fcb3814c3829f9b35aea7351c7acc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\406fcb3814c3829f9b35aea7351c7acc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ef46225ad08bd9b1ad0007c7c0108dfc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ef46225ad08bd9b1ad0007c7c0108dfc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5465b18033ee3f66ba55163875c12106\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5465b18033ee3f66ba55163875c12106\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0b52f03c1c2720ac03cd4aa2cad84f42\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0b52f03c1c2720ac03cd4aa2cad84f42\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a66a2484e01efe216ad790b957ef892d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\a66a2484e01efe216ad790b957ef892d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c2fc3aab4452c8132c097ef233edf8b0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c2fc3aab4452c8132c097ef233edf8b0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\594298754e379da566ee706c2c3ab515\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\594298754e379da566ee706c2c3ab515\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fc67bf31716d8ef70b70292b62f69c03\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fc67bf31716d8ef70b70292b62f69c03\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.VIBRATE
+ADDED from [com.wdullaer:materialdatetimepicker:3.4.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-3.4.0.aar\4ca911d6e097617ff282126d39b4e7ae\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [com.wdullaer:materialdatetimepicker:3.4.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-3.4.0.aar\4ca911d6e097617ff282126d39b4e7ae\AndroidManifest.xml:26:22-63
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1c0870bdbc7c973301a22a4116878f7a\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1c0870bdbc7c973301a22a4116878f7a\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\iihsa\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1c0870bdbc7c973301a22a4116878f7a\AndroidManifest.xml:26:13-58
